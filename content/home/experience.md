@@ -18,27 +18,93 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Master Instructor of English"
+  company = "Indian River State College"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "August 2018"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Curriculm Design and Maintenance for online, Face to Face, and Hybrid course sections
+  * Grading and analyzing grade data for results driven performance
+  * Professional development and collegiality 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Adjunct Instructor of English"
+  company = "Indian River State College"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "August 2016"
+  date_end = "August 2018"
+  description = """
+  Responsibilities include:
+
+  * Curriculm Design and Maintenance for online, Face to Face, and Hybrid course sections
+  * Grading and analyzing grade data for results driven performance
+  * Professional development and collegiality 
+  """
+
+[[experience]]
+  title = "8th Grade English Teacher"
+  company = "St. Lucie County School System"
+  company_url = ""
+  location = ""
+  date_start = "August 2013"
+  date_end = "June 2015"
+  description = """
+  Responsibilities include:
+  
+  * Curriculm Design and Maintenance 
+  * Grading and analyzing grade data
+  * Correspondance with Stake Holders
+  """
+
+[[experience]]
+  title = "High School Honors English Teacher"
+  company = "St. Lucie County School System"
+  company_url = ""
+  location = ""
+  date_start = "2012"
+  date_end = "2013"
+  description = """
+  Responsibilities include:
+  
+  * Curriculm Design and Maintenance 
+  * Grading and analyzing grade data
+  * Correspondance with Stake Holders
+  """
+
+[[experience]]
+  title = "Copy Writer for Website Design"
+  company = "Digital Slingshot"
+  company_url = ""
+  location = ""
+  date_start = "2006"
+  date_end = "2013"
+  description = """
+  Responsibilities include:
+  
+  *Composition of Product information for Consumer facing websites
+  *Website Editing
+  *SEO based analysis
+  """
+
+[[experience]]
+  title = "Library Technician"
+  company = "Stetson University Du-Pont Ball Library"
+  company_url = ""
+  location = ""
+  date_start = "2007"
+  date_end = "2009"
+  description = """
+  Responsibilities include:
+  
+  *Cataloging texts
+  *Database maintenance
+  *Processing and Inputting Print materials
+  """
 
 +++

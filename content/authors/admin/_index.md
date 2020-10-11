@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Mara Kallich is a Master Instructor of English in the English, Communications, and Modern Languages Department of Indian River State College. Her interests include Frankenstein, Popular Culture studies through the lens of Gender Studies, and Classic Rhetorical Theory.
+Mara Kallich is a Master Instructor of English in the English, Communications, and Modern Languages Department of Indian River State College. Her interests include Frankenstein, Popular Culture through the lens of Gender Studies, and Classic Rhetorical Theory.

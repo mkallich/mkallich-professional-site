@@ -70,9 +70,10 @@ subtitle = ""
 +++
 
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
 
 title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"
+
 event: Faculty Conference
 event_url:
 location: Florida

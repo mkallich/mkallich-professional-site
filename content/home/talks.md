@@ -75,16 +75,12 @@ subtitle = ""
 title: "Quick Tips from ACUE"
 
 event: Faculty Conference
-# event_url:
+
 location: Florida
-# address:
-# street:
-# city:
-# region:
-# postcode:
-# country:
-summary: Quick tips and tricks from the ACUE cohort
-# abstract:
+
+summary: Quick tips and tricks from the ACUE 2019 cohort
+
+
 
 
 date: 2020-08-14 

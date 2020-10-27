@@ -50,7 +50,7 @@ social:
   link: https://github.com/mkallich
 - icon: cv
   icon_pack: ai
-  link: files/Kallich-Vera Online CV
+  link: files/Kallich-VeraOnlineCV
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

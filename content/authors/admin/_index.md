@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mara Kallich
+title: Mara Kallich-Vera
 
 # Username (this should match the folder name)
 authors:
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Mara Kallich is a Master Instructor of English in the English, Communications, and Modern Languages Department of Indian River State College. Her interests include Frankenstein, Popular Culture through the lens of Gender Studies, and Classic Rhetorical Theory.
+Mara Kallich-Vera is a Master Instructor of English in the English, Communications, and Modern Languages Department of Indian River State College. Her interests include Frankenstein, Popular Culture through the lens of Gender Studies, and Classic Rhetorical Theory.
